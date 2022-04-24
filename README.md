@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NLH21
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning VBS Script, C.
+- 🌱 I’m currently learning HTML, CSS, Java Script, & Python.
 
 - 📫 How to reach me:
 - Email: nicolasleonhollenbaugh@gmail.com
