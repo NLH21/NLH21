@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mugenhollster
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning HTML, CSS, Java Script, & Python.
+- 🌐 I’m currently learning HTML, CSS, Jwva Script, & Visual Basic Script.
 
-- 📫 How to reach me:
+- 😁 How to reach me:
 - Email: nicolasleonhollenbaugh@gmail.com
 <!---
 NLH21/NLH21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
