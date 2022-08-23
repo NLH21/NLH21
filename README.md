@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mugenhollster
-- 👀 I’m interested in Cyber Security
-- 🌐 I’m currently learning HTML, CSS, Jwva Script, & Visual Basic Script.
+- 👀 I’m interested in Cyber Security.
+- 🌐 I’m currently learning HTML, CSS, Java Script, React & Visual Basic Script.
 
 - 😁 How to reach me:
 - Email: nicolasleonhollenbaugh@gmail.com
